@@ -1,0 +1,11 @@
+Window object
+    1. outmost element of the browser
+    2. root of the document object model
+    3. Execution context and global object for that context's JavaScript
+
+
+Document object
+    1. HTML document rendering in a browser
+    2. skeleton of the browser
+    3. Contains the DOM, initialized by parsing HTML
+
